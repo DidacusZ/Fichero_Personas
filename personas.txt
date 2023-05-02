@@ -1,0 +1,4 @@
+nombre;apellidos;edad;fechaNacimiento
+nicolas;maduro;60;23/11/1962
+adolf;hitler;50;20/04/1889
+francisco;franco;55;04/12/1892
